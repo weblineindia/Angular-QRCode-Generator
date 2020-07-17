@@ -1,0 +1,75 @@
+{
+  "$schema": "./node_modules/ng-packagr/package.schema.json",
+  "_from": "angularx-qrcode",
+  "_id": "angularx-qrcode@2.3.4",
+  "_inBundle": false,
+  "_integrity": "sha512-GvsFDQtTsH+gtl1IRjXTbMeBVrXRA8CbZ9tBnvT6uD+z63mQEF+3KlKsa262qJrZnnPR60TXW/Ma9/jYcC7EYg==",
+  "_location": "/angularx-qrcode",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "angularx-qrcode",
+    "name": "angularx-qrcode",
+    "escapedName": "angularx-qrcode",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angularx-qrcode/-/angularx-qrcode-2.3.4.tgz",
+  "_shasum": "6c09356785e035bc43a21e21a166ba753586ee8f",
+  "_spec": "angularx-qrcode",
+  "_where": "/media/javauser/914fa200-2352-479a-be3f-039edc4d1f6a/home/javauser/angular projects/angular-example-with-routing",
+  "author": "Weblineindia",
+  "bugs": {
+    "url": "https://github.com/cordobo/angularx-qrcode/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "qrcode": "1.4.4"
+  },
+  "deprecated": false,
+  "description": "Simple QRCode module generator for Angular4/5/6/7/8/9+ and Ionic 3/4 using node-qrcode",
+  "es2015": "fesm2015/angularx-qrcode.js",
+  "esm2015": "esm2015/angularx-qrcode.js",
+  "esm5": "esm5/angularx-qrcode.js",
+  "fesm2015": "fesm2015/angularx-qrcode.js",
+  "fesm5": "fesm5/angularx-qrcode.js",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "angular-weblineindia-qrcode",
+    "angular-qrcode",
+    "ng-qrcode",
+    "ngx-qrcode",
+    "angular9",
+    "ionic",
+    "ionic3",
+    "ionic4",
+    "aot",
+    "aot-compatible",
+    "aot-compilation",
+    "library",
+    "ng",
+    "typescript"
+  ],
+  "license": "MIT",
+  "main": "bundles/angularx-qrcode.umd.js",
+  "metadata": "angularx-qrcode.metadata.json",
+  "module": "fesm5/angularx-qrcode.js",
+  "name": "angular-weblineindia-qrcode-generator",
+  "peerDependencies": {
+    "@angular/core": ">= 9.0.0 < 10.0.0",
+    "tslib": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cordobo/angularx-qrcode.git"
+  },
+  "sideEffects": false,
+  "typings": "angularx-qrcode.d.ts",
+  "version": "1.0.0"
+}
