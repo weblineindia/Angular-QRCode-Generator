@@ -1,4 +1,4 @@
-*.ts linguist-detectable=true
+*.typescript linguist-detectable=true
 *.angularjs linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
